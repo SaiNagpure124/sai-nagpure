@@ -1,3 +1,3 @@
 # sai-nagpure
 This is my first repository <br>
-Author name - sai nagpure 
+Author name - sai nagpure (students)
